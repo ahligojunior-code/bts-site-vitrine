@@ -1,3 +1,161 @@
-.header1{
-    color: brown;
+body{margin: 0px;
+  background-color: blanchedalmond;
 }
+
+.sectionprix {
+    font-size: 30px;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+.section1{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around
+}
+
+.img1{
+    width:1500px ;
+    height: 900px;
+    display:flex;
+    justify-content: center;
+}
+
+.Vouscherchez {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.Àpropos {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.div6 {
+    font-size: 30px;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.div11 {
+    font-size: 50px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.div23 {
+    font-size: 30px;
+    display:flex;
+    justify-content:center;
+
+}
+
+.Bougezavec {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.Entraineure {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.imgentraineure {
+   width: 375px;
+   height: 600px;
+
+}
+
+.diventraineure{
+    font-size: 30px;
+    display:flex;
+    justify-content: space-between;
+
+}
+
+.Devenirmembre {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+
+
+
+.ant {
+    font-size: 30px;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+
+
+
+.button {
+border-radius: 30px;
+width: 400px;
+background-color: blue;
+color: white;
+}
+.ff {
+    font-size: 30px;
+}
+.section3 {
+background-color: rgb(246, 220, 142);
+
+}
+.divprix {
+    background-color: rgb(255, 255, 255);
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+.div11 {
+    font-size: 30px;
+    display:flex;
+    justify-content: center;
+
+}
+
+
