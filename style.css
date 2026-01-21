@@ -106,6 +106,14 @@
     position: absolute;
     left: 2000px;
     width: 500px;
-    height: 5S00px;
+    height: 500px;
     top: 100px
+}
+
+.button {
+    position: absolute;
+    left: 200px;
+    font-size: 40px;
+  
+    top: 1000px
 }
